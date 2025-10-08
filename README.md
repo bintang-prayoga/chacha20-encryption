@@ -2,7 +2,7 @@
 
 ## Tujuan aplikasi
 
-ChachaSlide adalah kumpulan skrip Python sederhana untuk mengenkripsi dan mendekripsi file JSON menggunakan algoritma ChaCha20. Aplikasi ini berguna untuk menyimpan atau mentransfer data JSON secara terenkripsi lalu mengembalikannya ke bentuk JSON yang valid.
+Ini adalah kumpulan skrip Python sederhana untuk mengenkripsi dan mendekripsi file JSON menggunakan algoritma ChaCha20. Aplikasi ini berguna untuk menyimpan atau mentransfer data JSON secara terenkripsi lalu mengembalikannya ke bentuk JSON yang valid.
 
 ## Cara menjalankan
 

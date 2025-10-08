@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "title": "Otonari Ni Ginga",
+      "slug": "otonari-ni-ginga",
+      "type": "comic",
+      "exclusivity": "paid",
+      "synopsis": "After the death of his father, Kuga Ichirou, a shoujo mangaka fresh out of high school, has to take care of his two little siblings, Machi and Fumio, all by himself. Struggling to meet a deadline after his previous assistants get their manga debuts, he hires a new assistant through his editor. However, his life takes an unexpected turn after this new assistant is revealed to be a beautiful and mysterious girlâ€¦",
+      "author": "Amagakure Gido",
+      "artist": "Amagakure Gido",
+      "status": "Ongoing",
+      "publication": "2019",
+      "coverArt": "https://res.cloudinary.com/boednocomic/image/upload/v1745928028/coverArt/Otonari_Ni_Ginga_Vol.1_mhhb83.jpg"
+    },
+    {
+      "title": "Houkago Kitaku Biyori",
+      "slug": "houkago-kitaku-biyori",
+      "type": "comic",
+      "exclusivity": "free",
+      "synopsis": "Shun was invited to the Going-Home Club by Naoki Satou, also known as 'Chokki-chan'. Despite refusing, he ends up being somewhat forcefully involved in the club's activities! A Going Home Club rom-com featuring a detour-loving high school girl and a new high school student who has lost his dream.",
+      "author": "Matsuda Mai",
+      "artist": "Matsuda Mai",
+      "status": "Ongoing",
+      "publication": "2023",
+      "coverArt": "https://res.cloudinary.com/boednocomic/image/upload/v1745858514/coverArt/vtjpvefwrq9fx5qekmqc.jpg"
+    }
+  ]
+}

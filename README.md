@@ -1,4 +1,4 @@
-# ChachaSlide
+# Chacha20 Encryption Example
 
 ## Tujuan aplikasi
 

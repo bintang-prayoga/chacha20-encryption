@@ -13,7 +13,16 @@ def main():
     key = get_random_bytes(32)
     cipher = ChaCha20.new(key=key)
 
-    ciphertext = cipher.encrypt(json.dumps(open('example.json').read()).encode('utf-8'))
+    jsonFile = input("Enter the file name (JSON): ")
+
+    with open(jsonFile, 'r', encoding='utf-8') as f:
+        data = f.read()
+    if not data.strip().startswith(('{', '[')):
+        print("Invalid JSON file")
+        return
+    
+    ciphertext = cipher.encrypt(data.encode('utf-8'))
+
 
     print ("The key is " + key.hex())
 
